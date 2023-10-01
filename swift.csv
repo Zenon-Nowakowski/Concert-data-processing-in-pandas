@@ -1,0 +1,54 @@
+,date,city,venue,attendance,revenue
+0,2023-03-17,Glendale,State Farm Stadium,69213,17600865.9
+1,2023-03-18,Glendale,State Farm Stadium,69213,17600865.9
+2,2023-03-24,Paradise,Allegiant Stadium,70150,17839145.0
+3,2023-03-25,Paradise,Allegiant Stadium,70150,17839145.0
+4,2023-03-31,Arlington,AT&T Stadium,105002,26702008.6
+5,2023-04-01,Arlington,AT&T Stadium,105002,26702008.6
+6,2023-04-02,Arlington,AT&T Stadium,105002,26702008.6
+7,2023-04-13,Tampa,Raymond James Stadium,76034,19335446.2
+8,2023-04-14,Tampa,Raymond James Stadium,76034,19335446.2
+9,2023-04-15,Tampa,Raymond James Stadium,76034,19335446.2
+10,2023-04-21,Houston,NRG Stadium,87983,22374076.9
+11,2023-04-22,Houston,NRG Stadium,87983,22374076.9
+12,2023-04-23,Houston,NRG Stadium,87983,22374076.9
+13,2023-04-28,Atlanta,Mercedes-Benz Stadium,87648,22288886.4
+14,2023-04-29,Atlanta,Mercedes-Benz Stadium,87648,22288886.4
+15,2023-04-30,Atlanta,Mercedes-Benz Stadium,87648,22288886.4
+16,2023-05-05,Nashville,Nissan Stadium,99876,25398466.8
+17,2023-05-06,Nashville,Nissan Stadium,99876,25398466.8
+18,2023-05-07,Nashville,Nissan Stadium,99876,25398466.8
+19,2023-05-12,Philadelphia,Lincoln Financial Field,76532,19462087.6
+20,2023-05-13,Philadelphia,Lincoln Financial Field,76532,19462087.6
+21,2023-05-14,Philadelphia,Lincoln Financial Field,76532,19462087.6
+22,2023-05-19,Foxborough,Gillette Stadium,99876,25398466.8
+23,2023-05-20,Foxborough,Gillette Stadium,99876,25398466.8
+24,2023-05-21,Foxborough,Gillette Stadium,99876,25398466.8
+25,2023-05-26,East Rutherford,MetLife Stadium,88762,22572176.6
+26,2023-05-27,East Rutherford,MetLife Stadium,88762,22572176.6
+27,2023-05-28,East Rutherford,MetLife Stadium,88762,22572176.6
+28,2023-06-02,Chicago,Soldier Field,67854,17255272.2
+29,2023-06-03,Chicago,Soldier Field,67854,17255272.2
+30,2023-06-04,Chicago,Soldier Field,67854,17255272.2
+31,2023-06-09,Detroit,Ford Field,77651,19746649.3
+32,2023-06-10,Detroit,Ford Field,77651,19746649.3
+33,2023-06-16,Pittsburg,Acrisure Stadium,97865,24887069.5
+34,2023-06-17,Pittsburg,Acrisure Stadium,97865,24887069.5
+35,2023-06-23,Minneapolis,U.S. Bank Stadium,89654,22799012.2
+36,2023-06-24,Minneapolis,U.S. Bank Stadium,89654,22799012.2
+37,2023-06-30,Cincinnati,Paycor Stadium,71293,18129809.9
+38,2023-07-01,Cincinnati,Paycor Stadium,71293,18129809.9
+39,2023-07-07,Kansas City,GEHA Field at Arrowhead Stadium,69432,17656557.6
+40,2023-07-08,Kansas City,GEHA Field at Arrowhead Stadium,69432,17656557.6
+41,2023-07-14,Denver,Empower Field at Mile High,89654,22799012.2
+42,2023-07-15,Denver,Empower Field at Mile High,89654,22799012.2
+43,2023-07-22,Seattle,Lumen Field,72003,18310362.9
+44,2023-07-23,Seattle,Lumen Field,72003,18310362.9
+45,2023-07-28,Santa Clara,Levi’s Stadium,84376,21456816.8
+46,2023-07-29,Santa Clara,Levi’s Stadium,84376,21456816.8
+47,2023-08-03,Inglewood,SoFi Stadium,90763,23081030.9
+48,2023-08-04,Inglewood,SoFi Stadium,90763,23081030.9
+49,2023-08-05,Inglewood,SoFi Stadium,90763,23081030.9
+50,2023-08-07,Inglewood,SoFi Stadium,90763,23081030.9
+51,2023-08-08,Inglewood,SoFi Stadium,90763,23081030.9
+52,2023-08-09,Inglewood,SoFi Stadium,90763,23081030.9
